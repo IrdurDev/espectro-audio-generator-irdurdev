@@ -1,21 +1,8 @@
-# Copyright & License / Licencia y Derechos de Autor
-
-**Copyright (c) 2026 IrdurDev**
+# Copyright & License
 
 ---
 
-## 🇪🇸 Español: Todos los derechos reservados
-
-Por la presente, se concede permiso para utilizar este software únicamente con fines personales o profesionales "tal cual", sujeto a las siguientes condiciones:
-
-1.  **Prohibición de Modificación:** No se permite la modificación, alteración o creación de trabajos derivados de este código fuente o sus archivos binarios sin el permiso previo y por escrito del autor.
-2.  **Prohibición de Comercialización:** No se permite el uso de este software, su código o sus resultados con fines comerciales, ni su venta o distribución bajo esquemas de pago.
-3.  **Prohibición de Redistribución:** No se permite la redistribución de este software en otros sitios web, repositorios o plataformas sin citar al autor original y mantener este archivo de licencia intacto.
-4.  **Sin Garantía:** El software se entrega "tal cual", sin garantía de ningún tipo, expresa o implícita. El autor no se hace responsable de cualquier daño derivado del uso de esta herramienta.
-
----
-
-## 🇺🇸 English: All Rights Reserved
+## All Rights Reserved
 
 Permission is hereby granted to use this software for personal or professional purposes "as is," subject to the following conditions:
 
@@ -26,4 +13,4 @@ Permission is hereby granted to use this software for personal or professional p
 
 ---
 
-**Contact / Contacto:** [irdurdev@hotmail.com](mailto:irdurdev@hotmail.com)
+**Copyright(©) - IrdurDev**
