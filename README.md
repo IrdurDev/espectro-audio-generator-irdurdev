@@ -1,7 +1,7 @@
 # Audio Spectral Text Encoder
 
-![Badge Versión](https://img.shields.io/badge/version-1.0.0-blue)
-![Badge Estado](https://img.shields.io/badge/status-Beta-orange)
+![Badge Versión](https://img.shields.io/badge/version-1.4-blue)
+![Badge Estado](https://img.shields.io/badge/status-Release-green)
 ![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen)
 ![Badge License](https://img.shields.io/badge/license-MIT-yellow)
 
