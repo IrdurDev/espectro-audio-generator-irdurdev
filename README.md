@@ -37,7 +37,7 @@ The primary goal of this utility is to convert plain text into **spectral audio*
 
 ## 📥 Downloads
 
-You can find all available versions (Stable, Beta, Alpha, and Pre-Alpha) directly in the repository folders.
+You can find all available versions (Stable and Pre-Release) directly in the repository folders.
 
 * **[Access all versions here](./)** (Link to your main folder)
 * **[Latest Stable Version (v1.4)](./Stable/)** (Link to your stable folder)
