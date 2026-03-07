@@ -1,4 +1,4 @@
-# Espectro Audio Generator by IrdurDev
+# Espectro Audio Generator Terminal by IrdurDev
 
 ![Badge Versión](https://img.shields.io/badge/version-v1.4_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/status-Unknown-lightgrey)
@@ -32,6 +32,15 @@ This tool is designed to be executed exclusively via the **terminal or command l
 
 ### 3. Purpose and Operation
 The primary goal of this utility is to convert plain text into **spectral audio**. The output sound file does not contain audible human speech; instead, the text is encoded into the frequencies so that it is only visible when the file is viewed through a **spectrogram**.
+
+---
+
+## 📥 Downloads
+
+You can find all available versions (Stable, Beta, Alpha, and Pre-Alpha) directly in the repository folders.
+
+* **[Access all versions here](./)** (Link to your main folder)
+* **[Latest Stable Version (v1.4)](./Stable/)** (Link to your stable folder)
 
 ---
 
