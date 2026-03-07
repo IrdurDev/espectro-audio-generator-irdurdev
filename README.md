@@ -1,4 +1,4 @@
-# Audio Spectral Text Encoder
+# Espectro Audio Generator by IrdurDev
 
 ![Badge Versión](https://img.shields.io/badge/version-v1.4_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/status-Unknown-lightgrey)
