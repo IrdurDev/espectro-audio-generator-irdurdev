@@ -3,7 +3,7 @@
 ![Badge Versión](https://img.shields.io/badge/version-1.4-blue)
 ![Badge Estado](https://img.shields.io/badge/status-Release-green)
 ![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen)
-![Badge License](https://img.shields.io/badge/license-Copyright-yellow)
+![Badge License](https://img.shields.io/badge/license-Custom_All_Rights_Reserved-red)
 
 ![Representación de la herramienta](logo-espectro_audio_generator-by_irdurdev.jpg)
 
