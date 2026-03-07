@@ -41,7 +41,7 @@ The primary goal of this utility is to convert plain text into **spectral audio*
 ## 📥 Downloads
 
 * **[Access all versions here](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases)** (Full release history)
-* **[Latest Stable Version (v1.4)](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
+* **[Latest Stable Version](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
 
 > **Note:** For the best experience, always download the version marked as **Latest**.
 
