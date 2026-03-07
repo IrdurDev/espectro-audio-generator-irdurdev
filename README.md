@@ -5,7 +5,7 @@
 ![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen)
 ![Badge License](https://img.shields.io/badge/license-MIT-yellow)
 
-![Representación de la herramienta](tu_imagen.png)
+![Representación de la herramienta](logo-espectro_audio_generator-by_irdurdev.jpg)
 
 ---
 
