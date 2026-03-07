@@ -1,9 +1,9 @@
 # Audio Spectral Text Encoder
 
-![Badge Versión](https://img.shields.io/badge/version-1.4-blue)
-![Badge Estado](https://img.shields.io/badge/status-Release-green)
-![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen)
-![Badge License](https://img.shields.io/badge/license-Custom_All_Rights_Reserved-red)
+![Badge Versión](https://img.shields.io/badge/version-Release%20Estable-brightgreen)
+![Badge Estado](https://img.shields.io/badge/status-Beta-orange)
+![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-blue)
+![Badge License](https://img.shields.io/badge/license-All_Rights_Reserved-red)
 
 ![Representación de la herramienta](logo-espectro_audio_generator-by_irdurdev.jpg)
 
@@ -32,6 +32,14 @@ This tool is designed to be executed exclusively via the **terminal or command l
 
 ### 3. Purpose and Operation
 The primary goal of this utility is to convert plain text into **spectral audio**. The output sound file does not contain audible human speech; instead, the text is encoded into the frequencies so that it is only visible when the file is viewed through a **spectrogram**.
+
+---
+
+## ⚖️ Licencia y Derechos de Autor / License
+
+**ES:** Todos los derechos reservados. Se permite el uso personal y profesional de esta herramienta "tal cual". **No se permite la distribución, modificación o comercialización del código fuente o sus derivados sin el permiso explícito del autor.**
+
+**EN:** All rights reserved. Personal and professional use of this tool is allowed "as is". **Distribution, modification, or commercialization of the source code or its derivatives is not permitted without the explicit permission of the author.**
 
 ---
 
