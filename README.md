@@ -1,9 +1,9 @@
 # Espectro Audio Generator Terminal by IrdurDev
 
-![Badge Versión](https://img.shields.io/badge/version-v1.4_Stable-brightgreen)
-![Badge Estado](https://img.shields.io/badge/status-Unknown-lightgrey)
+![Badge Versión](https://img.shields.io/badge/Version-v1.4_Stable-brightgreen)
+![Badge Estado](https://img.shields.io/badge/Status-Unknown-lightgrey)
 ![Badge OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-blue)
-![Badge License](https://img.shields.io/badge/license-All_Rights_Reserved-red)
+![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
 ![Representación de la herramienta](logo-espectro_audio_generator-by_irdurdev.jpg)
 
@@ -37,10 +37,11 @@ The primary goal of this utility is to convert plain text into **spectral audio*
 
 ## 📥 Downloads
 
-You can find all available versions (Stable and Pre-Release) directly in the repository folders.
+* **[Access all versions here](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases)** (Full release history)
+* **[Latest Stable Version (v1.4)](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
+* **[Experimental Version (v1.3)](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/tag/v1.3)** (Warning: Buggy UI)
 
-* **[Access all versions here](./)** (Link to your main folder)
-* **[Latest Stable Version (v1.4)](./Stable/)** (Link to your stable folder)
+> **Note:** For the best experience, always download the version marked as **Latest**.
 
 ---
 
