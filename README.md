@@ -6,7 +6,9 @@
 ![Static Badge](https://img.shields.io/badge/Future_OS-Windows_%7C_Linux-orange)
 ![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
-![Representación de la herramienta](logo-espectro_audio_generator-by_irdurdev.jpg)
+<p align="center">
+  <img src="logo-espectro_audio_generator-by_irdurdev.jpg" alt="Representación de la herramienta" width="800">
+</p>
 
 ---
 
