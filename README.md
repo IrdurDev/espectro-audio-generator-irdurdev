@@ -2,7 +2,7 @@
 
 ![Badge Versión](https://img.shields.io/badge/Version-v1.5_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/Status-Development-lightgrey)
-![Badge OS](https://img.shields.io/badge/OS-macOS-blue)
+![Badge OS](https://img.shields.io/badge/Current_OS-macOS-blue)
 ![Static Badge](https://img.shields.io/badge/Future_OS-Windows_%7C_Linux-orange)
 ![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
@@ -46,14 +46,6 @@ El objetivo principal es transformar texto plano en **audio espectral**. El arch
 * **[Latest Stable Version](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
 
 > **Note:** For the best experience, always download the version marked as **Latest**.
-
----
-
-## ⚖️ License / Licencia
-
-**All Rights Reserved / Todos los derechos reservados**
-This project is protected by copyright. Modification, commercial use, or redistribution without explicit permission is prohibited.
-*Consulte el archivo [LICENSE.md](./LICENSE.md) para más detalles.*
 
 ---
 
