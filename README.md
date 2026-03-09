@@ -12,29 +12,31 @@
 
 ---
 
-## 🇪🇸 Español
+## 🇺🇸 English
 
-### 1. Requisitos del Sistema
-Para utilizar esta herramienta, es necesario tener instalado **Python 3.x.x**. Una de las grandes ventajas de este script es que **no requiere dependencias externas** (usa únicamente librerías estándar de Python), lo que facilita su ejecución inmediata sin instalaciones adicionales.
+### 1. System Requirements & Compatibility
+This tool is designed to be **universally compatible with any Macintosh system** (from vintage models to the latest versions) as long as **Python 3.x** is installed.
+* **Zero Dependencies:** A major advantage of this script is that it **does not require external libraries**. It runs entirely using Python's standard library, ensuring immediate execution.
 
-### 2. Interfaz de Uso
-Esta es una herramienta diseñada exclusivamente para ser ejecutada a través de la **terminal o línea de comandos (CLI)**. No posee interfaz gráfica, lo que garantiza un consumo mínimo de recursos y facilidad de integración.
+### 2. Usage Interface
+This is a **CLI (Command Line Interface)** tool. It operates exclusively through the terminal, ensuring low resource consumption and high performance on any Mac.
 
-### 3. Funcionamiento y Propósito
-El objetivo principal de esta utilidad es transformar texto plano en **audio espectral**. El audio resultante no contiene voz legible; el texto se codifica en las frecuencias de modo que solo es visible al analizar el archivo con un **espectrograma**.
+### 3. Purpose and Operation
+The primary goal is to transform plain text into **spectral audio**. The output file contains no audible speech; instead, the text is encoded into the frequencies. The content is only visible when the audio is analyzed with a **spectrogram**.
 
 ---
 
-## 🇺🇸 English
+## 🇪🇸 Español
 
-### 1. System Requirements
-To use this program, you must have **Python 3.x.x** installed. A key feature of this script is that it **does not require external dependencies** (it uses only Python standard libraries), ensuring quick and easy setup.
+### 1. Requisitos y Compatibilidad
+Esta herramienta está diseñada para ser **universalmente compatible con cualquier sistema Macintosh** (desde modelos antiguos hasta los más recientes) siempre que tenga **Python 3.x** instalado.
+* **Sin Dependencias:** Una de las grandes ventajas de este script es que **no requiere librerías externas**. Funciona íntegramente con la librería estándar de Python para una ejecución inmediata.
 
-### 2. Usage Interface
-This tool is designed to be executed exclusively via the **terminal or command line (CLI)**. It does not have a graphical interface, making it lightweight and ideal for technical workflows.
+### 2. Interfaz de Uso
+Esta es una herramienta de **línea de comandos (CLI)**. Se ejecuta exclusivamente a través de la terminal, lo que garantiza un consumo mínimo de recursos y un alto rendimiento en cualquier Mac.
 
-### 3. Purpose and Operation
-The primary goal of this utility is to convert plain text into **spectral audio**. The output sound file does not contain audible human speech; instead, the text is encoded into the frequencies so that it is only visible when the file is viewed through a **spectrogram**.
+### 3. Funcionamiento y Propósito
+El objetivo principal es transformar texto plano en **audio espectral**. El archivo resultante no contiene voz; el texto se codifica en las frecuencias de modo que solo es visible al analizar el audio con un **espectrograma**.
 
 ---
 
@@ -47,8 +49,14 @@ The primary goal of this utility is to convert plain text into **spectral audio*
 
 ---
 
-## 📩 Soporte / Support
+## ⚖️ License / Licencia
 
-Si tienes dudas o necesitas asistencia, puedes contactar a / If you have any questions or need assistance, feel free to contact:
+**All Rights Reserved / Todos los derechos reservados**
+This project is protected by copyright. Modification, commercial use, or redistribution without explicit permission is prohibited.
+*Consulte el archivo [LICENSE.md](./LICENSE.md) para más detalles.*
+
+---
+
+## 📩 Support / Soporte
 
 **Email:** [irdurdev@hotmail.com](mailto:irdurdev@hotmail.com)
