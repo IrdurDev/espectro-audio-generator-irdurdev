@@ -47,7 +47,7 @@ El objetivo principal es transformar texto plano en **audio espectral**. El arch
 * **[Access all versions here](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases)** (Full release history)
 * **[Latest Stable Version](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
 
-> **Note:** For the best experience, always download the version marked as **Latest**.
+> **Note:** For the best experience, always download the version marked as **Latest**. And is currently experimental for Linux support only v1.5
 
 ---
 
