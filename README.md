@@ -2,8 +2,8 @@
 
 ![Badge Versión](https://img.shields.io/badge/Version-v1.5_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/Status-Development-lightgrey)
-![Badge OS](https://img.shields.io/badge/Current_OS-macOS-blue)
-![Static Badge](https://img.shields.io/badge/Future_OS-Windows_%7C_Linux-orange)
+![Badge OS](https://img.shields.io/badge/Current_OS-macOS_%7C_Linux-blue)
+![Static Badge](https://img.shields.io/badge/Future_OS-Windows-orange)
 ![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
 <p align="center">
