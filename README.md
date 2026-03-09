@@ -47,14 +47,6 @@ The primary goal of this utility is to convert plain text into **spectral audio*
 
 ---
 
-## ⚖️ Licencia y Derechos de Autor / License
-
-**ES:** Todos los derechos reservados. Se permite el uso personal y profesional de esta herramienta "tal cual". **No se permite la distribución, modificación o comercialización del código fuente o sus derivados sin el permiso explícito del autor.**
-
-**EN:** All rights reserved. Personal and professional use of this tool is allowed "as is". **Distribution, modification, or commercialization of the source code or its derivatives is not permitted without the explicit permission of the author.**
-
----
-
 ## 📩 Soporte / Support
 
 Si tienes dudas o necesitas asistencia, puedes contactar a / If you have any questions or need assistance, feel free to contact:
