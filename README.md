@@ -1,6 +1,6 @@
 # Espectro Audio Generator Terminal by IrdurDev
 
-![Badge Versión](https://img.shields.io/badge/Version-v1.4_Stable-brightgreen)
+![Badge Versión](https://img.shields.io/badge/Version-v1.5_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/Status-Development-lightgrey)
 ![Badge OS](https://img.shields.io/badge/OS-macOS-blue)
 ![Static Badge](https://img.shields.io/badge/Future_OS-Windows_%7C_Linux-orange)
