@@ -2,7 +2,7 @@
 
 ![Badge Versión](https://img.shields.io/badge/Version-v1.5_Stable-brightgreen)
 ![Badge Estado](https://img.shields.io/badge/Status-Development-lightgrey)
-![Badge OS](https://img.shields.io/badge/OS-macOS_%7C_Windows_(x32/x64)_%7C_Linux_(x64)-blue)
+![Badge OS](https://img.shields.io/badge/OS-macOS_10.9+_|__Windows_(x32/x64)_|__Linux_(x64)-blue)
 ![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
 <p align="center">
