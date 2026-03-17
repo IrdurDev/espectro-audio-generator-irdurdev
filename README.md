@@ -24,8 +24,6 @@ This is a **CLI (Command Line Interface)** tool. It operates exclusively through
 ### 3. Purpose and Operation
 The primary goal is to transform plain text into **spectral audio**. The output file contains no audible speech; instead, the text is encoded into the frequencies. The content is only visible when the audio is analyzed with a **spectrogram**.
 
-**NOTE:** For Linux users, it is not necessary to have Python 3 installed according to the tests performed.
-
 ---
 
 ## 🇪🇸 Español
@@ -41,8 +39,6 @@ Esta es una herramienta de **línea de comandos (CLI)**. Se ejecuta exclusivamen
 ### 3. Funcionamiento y Propósito
 El objetivo principal es transformar texto plano en **audio espectral**. El archivo resultante no contiene voz; el texto se codifica en las frecuencias de modo que solo es visible al analizar el audio con un **espectrograma**.
 
-**NOTA:** Para los usuarios de Linux, no hace falta tener instalado Python3 segun las pruebas realizadas.
-
 ---
 
 ## 📥 Downloads
@@ -50,7 +46,7 @@ El objetivo principal es transformar texto plano en **audio espectral**. El arch
 * **[Access all versions here](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases)** (Full release history)
 * **[Latest Stable Version](https://github.com/IrdurDev/espectro-audio-generator-irdurdev/releases/latest)** (Recommended)
 
-> **Note:** For the best experience, always download the version marked as **Latest**.
+> **Note:** For the best experience, always download the version marked as **Latest**. For Linux users, it is not necessary to have Python3 installed according to the tests performed.
 
 ---
 
