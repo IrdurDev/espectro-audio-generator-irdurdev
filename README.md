@@ -6,7 +6,7 @@
 ![Badge License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
 <p align="center">
-  <img src="image-tool/logo-espectro_audio_generator-irdurdev.jpg" alt="Representación de la herramienta" width="400">
+  <img src="image-tool/logo-espectro_audio_generator-irdurdev.png" alt="Representación de la herramienta" width="400">
 </p>
 
 ---
